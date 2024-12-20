@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jcs07\\OneDrive\\Escritorio\\My project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|c:\\users\\jcs07\\onedrive\\escritorio\\my project\\assets\\scripts\\musicmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\musicmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|C:\\Users\\jcs07\\OneDrive\\Escritorio\\My project\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|C:\\Users\\jcs07\\OneDrive\\Escritorio\\My project\\assets\\scripts\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|C:\\Users\\jcs07\\OneDrive\\Escritorio\\My project\\assets\\scripts\\winscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\winscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|C:\\Users\\jcs07\\OneDrive\\Escritorio\\My project\\assets\\scripts\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|C:\\Users\\jcs07\\OneDrive\\Escritorio\\My project\\assets\\scripts\\killzone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\killzone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|C:\\Users\\jcs07\\OneDrive\\Escritorio\\My project\\assets\\scripts\\collectible.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\collectible.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|C:\\Users\\jcs07\\OneDrive\\Escritorio\\My project\\assets\\scripts\\jugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\jugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MusicManager.cs",
+              "DocumentMoniker": "C:\\Users\\jcs07\\OneDrive\\Escritorio\\My project\\Assets\\Scripts\\MusicManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MusicManager.cs",
+              "ToolTip": "C:\\Users\\jcs07\\OneDrive\\Escritorio\\My project\\Assets\\Scripts\\MusicManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MusicManager.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwBIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T22:04:05.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WinScene.cs",
+              "DocumentMoniker": "C:\\Users\\jcs07\\OneDrive\\Escritorio\\My project\\Assets\\Scripts\\WinScene.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\WinScene.cs",
+              "ToolTip": "C:\\Users\\jcs07\\OneDrive\\Escritorio\\My project\\Assets\\Scripts\\WinScene.cs",
+              "RelativeToolTip": "Assets\\Scripts\\WinScene.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T21:38:35.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainMenu.cs",
+              "DocumentMoniker": "C:\\Users\\jcs07\\OneDrive\\Escritorio\\My project\\Assets\\Scripts\\MainMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MainMenu.cs",
+              "ToolTip": "C:\\Users\\jcs07\\OneDrive\\Escritorio\\My project\\Assets\\Scripts\\MainMenu.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MainMenu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T21:22:02.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "C:\\Users\\jcs07\\OneDrive\\Escritorio\\My project\\Assets\\Scripts\\Enemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy.cs",
+              "ToolTip": "C:\\Users\\jcs07\\OneDrive\\Escritorio\\My project\\Assets\\Scripts\\Enemy.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAuwB0AAAB2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T22:10:09.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Killzone.cs",
+              "DocumentMoniker": "C:\\Users\\jcs07\\OneDrive\\Escritorio\\My project\\Assets\\Scripts\\Killzone.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Killzone.cs",
+              "ToolTip": "C:\\Users\\jcs07\\OneDrive\\Escritorio\\My project\\Assets\\Scripts\\Killzone.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Killzone.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T21:17:08.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Jugador.cs",
+              "DocumentMoniker": "C:\\Users\\jcs07\\OneDrive\\Escritorio\\My project\\Assets\\Scripts\\Jugador.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Jugador.cs",
+              "ToolTip": "C:\\Users\\jcs07\\OneDrive\\Escritorio\\My project\\Assets\\Scripts\\Jugador.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Jugador.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwA8AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T20:57:01.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\jcs07\\OneDrive\\Escritorio\\My project\\Assets\\Scripts\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
+              "ToolTip": "C:\\Users\\jcs07\\OneDrive\\Escritorio\\My project\\Assets\\Scripts\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameManager.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAQwCUAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T20:57:01.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Collectible.cs",
+              "DocumentMoniker": "C:\\Users\\jcs07\\OneDrive\\Escritorio\\My project\\Assets\\Scripts\\Collectible.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Collectible.cs",
+              "ToolTip": "C:\\Users\\jcs07\\OneDrive\\Escritorio\\My project\\Assets\\Scripts\\Collectible.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Collectible.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T20:56:56.65Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
